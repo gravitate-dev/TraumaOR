@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Ambiance\LightRotate.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player\ThePlayer.cs" Line="19" Column="47" />
+      <File FileName="Assets\Scripts\Operation\Patient.cs" Line="15" Column="2" />
+      <File FileName="Assets\Scripts\Operation\LevelHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\enemyAttacks\BaseAttack.cs" Line="11" Column="40" />
+      <File FileName="Assets\Scripts\enemyAttacks\Scratch.cs" Line="5" Column="21" />
+      <File FileName="Assets\Scripts\NPC\AnnouncerSoundComment.cs" Line="18" Column="19" />
+      <File FileName="Assets\Scripts\Ambiance\LightRotate.cs" Line="20" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

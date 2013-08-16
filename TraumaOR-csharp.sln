@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{C8534EA8-1A6C-1D42-D5F5-825D71365BE0}") = "TraumaOR", "Assembly-CSharp-firstpass-vs.csproj", "{7695F150-DE6D-FDDE-C200-08CC332630C0}"
+EndProject
+Project("{C8534EA8-1A6C-1D42-D5F5-825D71365BE0}") = "TraumaOR", "Assembly-CSharp-vs.csproj", "{7359FE15-7A70-E8A7-E8A3-2C48058CAA1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7695F150-DE6D-FDDE-C200-08CC332630C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7695F150-DE6D-FDDE-C200-08CC332630C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7695F150-DE6D-FDDE-C200-08CC332630C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7695F150-DE6D-FDDE-C200-08CC332630C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7359FE15-7A70-E8A7-E8A3-2C48058CAA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7359FE15-7A70-E8A7-E8A3-2C48058CAA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7359FE15-7A70-E8A7-E8A3-2C48058CAA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7359FE15-7A70-E8A7-E8A3-2C48058CAA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
