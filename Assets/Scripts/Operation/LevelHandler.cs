@@ -6,11 +6,15 @@ public class LevelHandler : MonoBehaviour {
 	
 	public Transform area;
 	public GameObject[] enemies = new GameObject[7];
-	public float RateOfSpawn = 2;
+	public float RateOfSpawn = 99;
 	private float nextSpawn = 0;
 	
 	// Use this for initialization
 	void Start () {
+		if (RateOfSpawn<=0){
+			Debug.LogError("RateOfSpawn: CANT SET TO ZERO!");
+			RateOfSpawn = 5.0f;
+		}
 	}
 	
 	// Update is called once per frame

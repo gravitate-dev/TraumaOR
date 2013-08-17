@@ -6,12 +6,14 @@ public class HeartBeep : MonoBehaviour {
 	public AudioSource heartBeep;
 	private float heartbeepInterval = 1.2f;
 	private float oldheartbeepInterval = 1.2f;
+	public Animation heartBounce;
 	// Use this for initialization
 	void Start () {
 		InvokeRepeating("beep",1,oldheartbeepInterval);
 	}
 	
 	public void beep() {
+		heartBounce.Play();
         heartBeep.Play();
 		
 	}

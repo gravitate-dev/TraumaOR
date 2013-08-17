@@ -3,16 +3,32 @@ using System.Collections;
 
 public abstract class BaseAttack : MonoBehaviour {
 	protected Patient p;
-	protected float health = 10; //how much health
-	protected float damagePerTick = 1; //if this isn't taken care of it will slowly damage
-	protected float spawnDamage;
-	// Use this for initialization
-	void Start () {
-		if (this.gameObject.tag!="enemyDamage"){
+	protected int damageOnInit;
+	protected int damagePerTick;
+	protected bool isBleeding = false;
+	protected float timeTillBleed;
+	protected int toolNeededToUse;
+	protected bool shouldNeedToBandageAfterSlice = false;
+	protected int nextToolNeeded = -1;
+	protected float tickExtraDelaySeconds;
+	protected SlicePoints sp;
+	
+	protected void BaseInit(int damageOnInit, int damagePerTick, int tickExtraDelaySeconds, int tickRepeatRate){
+		this.damagePerTick = damagePerTick;
+		this.damageOnInit = damageOnInit;
+				if (this.gameObject.tag!="enemyDamage"){
 			Debug.LogError("The gameobject must have tag enemyDamage");
 		}		
+		p = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<Patient>();
+		InvokeRepeating("doDamage",tickExtraDelaySeconds,tickRepeatRate);
+		damageOnSpawn();
 	}
 	
-	public abstract void doDamage();
-	public abstract void damageOnSpawn();
+	private void doDamage() {
+		p.doDamage(damagePerTick);
+	}
+	private void damageOnSpawn() {
+		p.doDamage(damageOnInit);
+	}
+	public abstract void onToolSuccess();
 }

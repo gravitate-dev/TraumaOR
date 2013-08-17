@@ -7,8 +7,8 @@ Direct3D:
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 <I> Initializing (RawInput).
 <RI> Input initialized.
-Non platform assembly: data-00000000025A3420 (this message is harmless)
-Non platform assembly: data-000000000260A9C0 (this message is harmless)
-Non platform assembly: data-000000000260BAC0 (this message is harmless)
-Non platform assembly: data-0000000007828F80 (this message is harmless)
-Non platform assembly: data-000000000782EFD0 (this message is harmless)
+Non platform assembly: data-0000000002543420 (this message is harmless)
+Non platform assembly: data-00000000078385C0 (this message is harmless)
+Non platform assembly: data-00000000025AA9C0 (this message is harmless)
+Non platform assembly: data-0000000007873FB0 (this message is harmless)
+Non platform assembly: data-0000000007879F70 (this message is harmless)

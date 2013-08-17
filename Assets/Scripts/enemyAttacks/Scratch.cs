@@ -7,25 +7,18 @@ public class Scratch : BaseAttack {
 	// Use this for initialization	
 	
 	void Start () {
-		spawnDamage = 5;	
-		p = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<Patient>();
-		InvokeRepeating("doDamage",5,1);
-		damageOnSpawn();
+		BaseInit(5,1,5,1);
+		toolNeededToUse = 0;
 	}
 	
-    public void OnClick(){
-		//todo check what tool is used when clicked
-    // this object was clicked - do something
-    Destroy (this.gameObject);
+	public void OnClick(int toolClicked){
+		if (toolClicked == toolNeededToUse){
+    	Destroy (this.gameObject);
+		}
     } 
-	
-	
-	public override void doDamage() {
-		p.doDamage(damagePerTick);
-	}
-	
-	public override void damageOnSpawn() {
-		p.doDamage(spawnDamage);
+
+	public override void onToolSuccess(){
+		Destroy(gameObject);
 	}
 	
 }

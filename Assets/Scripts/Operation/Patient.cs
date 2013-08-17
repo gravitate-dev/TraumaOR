@@ -4,7 +4,8 @@ using System.Collections;
 public class Patient : MonoBehaviour
 {
 	public float health;
-	public GUIText healthDisplay;
+	public SpriteText healthDisplay;
+	public UIProgressBar healthBar;
 	public AnnouncerSoundComment asc;
 	public bool hasAlerted = false;
 	// Use this for initialization
@@ -19,7 +20,8 @@ public class Patient : MonoBehaviour
 			asc.alertWarning();
 			hasAlerted=true;
 		}
-		healthDisplay.text = health+"";
+		healthDisplay.Text = health+"";
+		healthBar.Value = health/100.0f;
 	}
 }
 

@@ -5,6 +5,8 @@ Project("{C8534EA8-1A6C-1D42-D5F5-825D71365BE0}") = "TraumaOR", "Assembly-CSharp
 EndProject
 Project("{C8534EA8-1A6C-1D42-D5F5-825D71365BE0}") = "TraumaOR", "Assembly-CSharp-vs.csproj", "{7359FE15-7A70-E8A7-E8A3-2C48058CAA1D}"
 EndProject
+Project("{C8534EA8-1A6C-1D42-D5F5-825D71365BE0}") = "TraumaOR", "Assembly-CSharp-Editor-vs.csproj", "{32EDBDDE-5A3A-755B-FD02-F89447F012C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{7359FE15-7A70-E8A7-E8A3-2C48058CAA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7359FE15-7A70-E8A7-E8A3-2C48058CAA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7359FE15-7A70-E8A7-E8A3-2C48058CAA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32EDBDDE-5A3A-755B-FD02-F89447F012C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32EDBDDE-5A3A-755B-FD02-F89447F012C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32EDBDDE-5A3A-755B-FD02-F89447F012C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32EDBDDE-5A3A-755B-FD02-F89447F012C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
