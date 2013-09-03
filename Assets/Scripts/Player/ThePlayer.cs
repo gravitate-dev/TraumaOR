@@ -6,44 +6,43 @@ public class ThePlayer : MonoBehaviour {
 	[SerializeField]
 	private int toolUsing;
 	
-	public AudioSource sutureSound,scalpelSound,drainSound;
-	public AudioSource laserSound,bandageSound;
+	public ToolSuture toolSuture;
+	public ToolDrain toolDrain;
+	public ToolLaser toolLaser;
+	public ToolScalpel toolScalpel;
+	public ToolTweezer toolTweezer;
+	public ToolGel toolGel;
+	public ToolSyringe toolSyringe;
+	public ToolUltrasound toolUltrasound;
+	private bool hasHandledStopTouch;
+	public OperatingUIEvents operatingUIEvents;
+	
 	private enum TOOL {
 		Suture = 0,
-		Gel,
-		Drain,
-		Tweezer,
-		Ultra,
-		Scalpel,
-		Syringe,
-		Bandage,
-		Laser
+		Gel=1,
+		Drain=2,
+		Tweezer=3,
+		Ultra=4,
+		Scalpel=5,
+		Syringe=6,
+		Bandage=7,
+		Laser=8,
+		Talk=9 //this is where the player is talking
 	}
-	// Use this for initialization
-	void Start () {
-	
-	}
+
 	
 	
 	private void changeTool(int tool_id) {
 		stopToolEffects();
+		onDeselectOldTool(toolUsing);
 		this.toolUsing = tool_id;
+		onSelectNewTool(tool_id);
+		operatingUIEvents.setSelectedTool(tool_id);
 	}
 	
 	// Update is called once per frame
 	void Update () {
 		 if (Input.GetMouseButton(0)){ // if left button pressed...
-			
-			
-			Ray ray = camera.ScreenPointToRay(Input.mousePosition);
-			RaycastHit hit;
-			if (Physics.Raycast(ray, out hit,100)){
-				// the object identified by hit.transform was clicked
-				// do whatever you want
-					if (hit.transform.tag.Equals("enemyDamage")){
-									hit.transform.GetComponent<Scratch>().OnClick(toolUsing);
-				}
-			}
 			doToolEffects();
 		} else {
 			stopToolEffects();
@@ -52,27 +51,122 @@ public class ThePlayer : MonoBehaviour {
 	
 	
 	private void stopToolEffects(){
+		hasHandledStopTouch = true;
 		switch(toolUsing)
 		{
 			
 			case (int)TOOL.Laser:
-				if (laserSound.isPlaying==true)laserSound.Stop();
+				toolLaser.onStopTouch();
 			break;
 			
-			case (int)TOOL.Bandage:
-				if (bandageSound.isPlaying==true)bandageSound.Stop();
+			case (int)TOOL.Gel:
+				toolGel.onStopTouch();
+			break;
+			
+			case (int)TOOL.Tweezer:
+				toolTweezer.onStopTouch();
 			break;
 			
 			case (int)TOOL.Suture:
-				if (sutureSound.isPlaying==true)sutureSound.Stop();
+			if (toolSuture!=null)toolSuture.onStopTouch();
 			break;
 			
+			case (int)TOOL.Ultra:
+				toolUltrasound.onStopTouch();
+			break;
+			
+			
 			case (int)TOOL.Scalpel:
-				if (scalpelSound.isPlaying==true)scalpelSound.Stop();
+				toolScalpel.onStopTouch();
 			break;
 			
 			case (int)TOOL.Drain:
-			if (drainSound.isPlaying==true)drainSound.Stop();
+				toolDrain.onStopTouch();
+			break;
+			
+			case (int)TOOL.Syringe:
+				toolSyringe.onStopTouch();
+			break;
+			
+			default:
+			break;
+		}
+	}
+	
+	private void onSelectNewTool(int toolid){
+		switch(toolid)
+		{
+			
+			case (int)TOOL.Laser:
+				toolLaser.onSelect();
+			break;
+			
+			case (int)TOOL.Gel:
+				toolGel.onSelect();
+			break;
+			
+			case (int)TOOL.Tweezer:
+				toolTweezer.onSelect();
+			break;
+			
+			case (int)TOOL.Suture:
+				toolSuture.onSelect();
+			break;
+			
+			case (int)TOOL.Ultra:
+				toolUltrasound.onSelect();
+			break;
+			case (int)TOOL.Scalpel:
+				toolScalpel.onSelect();
+			break;
+			
+			case (int)TOOL.Drain:
+				toolDrain.onSelect();
+			break;
+			
+			case (int)TOOL.Syringe:
+				toolSyringe.onSelect();
+			break;
+			
+			default:
+			break;
+		}
+	}
+	
+	private void onDeselectOldTool(int toolid){
+		switch(toolid)
+		{
+			
+			case (int)TOOL.Laser:
+				toolLaser.onDeselect();
+			break;
+			
+			case (int)TOOL.Gel:
+				toolGel.onDeselect();
+			break;
+			
+			case (int)TOOL.Tweezer:
+				toolTweezer.onDeselect();
+			break;
+			
+			case (int)TOOL.Suture:
+				toolSuture.onDeselect();
+			break;
+			
+			case (int)TOOL.Ultra:
+				toolUltrasound.onDeselect();
+			break;
+			
+			case (int)TOOL.Scalpel:
+				toolScalpel.onDeselect();
+			break;
+			
+			case (int)TOOL.Drain:
+				toolDrain.onDeselect();
+			break;
+			
+			case (int)TOOL.Syringe:
+				toolSyringe.onDeselect();
 			break;
 			
 			default:
@@ -84,23 +178,36 @@ public class ThePlayer : MonoBehaviour {
 		{
 			
 			case (int)TOOL.Laser:
-				if (laserSound.isPlaying==false)laserSound.Play();
+				toolLaser.onTouch();
 			break;
 			
-			case (int)TOOL.Bandage:
-				if (bandageSound.isPlaying==false)bandageSound.Play();
+			case (int)TOOL.Gel:
+				toolGel.onTouch();
+			break;
+			
+			case (int)TOOL.Tweezer:
+				toolTweezer.onTouch();
 			break;
 			
 			case (int)TOOL.Suture:
-			if (sutureSound.isPlaying==false)sutureSound.Play();
+			if (toolSuture!=null)
+				toolSuture.onTouch();
+			break;
+			
+			case (int)TOOL.Ultra:
+				toolUltrasound.onTouch();
 			break;
 			
 			case (int)TOOL.Scalpel:
-				if (scalpelSound.isPlaying==false)scalpelSound.Play();
+				toolScalpel.onTouch();
 			break;
 			
 			case (int)TOOL.Drain:
-			if (drainSound.isPlaying==false)drainSound.Play();
+				toolDrain.onTouch();
+			break;
+			
+			case (int)TOOL.Syringe:
+				toolSyringe.onTouch();
 			break;
 				
 			default:
@@ -119,6 +226,9 @@ public class ThePlayer : MonoBehaviour {
 	public void EZchangeTool_7() {changeTool(7);}
 	public void EZchangeTool_8() {changeTool(8);}
 	public void EZchangeTool_9() {changeTool(9);}
+	public void changeToolToTalk(){
+		changeTool((int)TOOL.Talk);
+	}
 }
 /* Tool reference
 Suture  0

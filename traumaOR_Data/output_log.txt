@@ -7,8 +7,1859 @@ Direct3D:
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 <I> Initializing (RawInput).
 <RI> Input initialized.
-Non platform assembly: data-0000000002543420 (this message is harmless)
-Non platform assembly: data-00000000078385C0 (this message is harmless)
-Non platform assembly: data-00000000025AA9C0 (this message is harmless)
-Non platform assembly: data-0000000007873FB0 (this message is harmless)
-Non platform assembly: data-0000000007879F70 (this message is harmless)
+Non platform assembly: data-0000000002663420 (this message is harmless)
+Non platform assembly: data-00000000078485C0 (this message is harmless)
+Non platform assembly: data-0000000007883880 (this message is harmless)
+Non platform assembly: data-0000000007888F40 (this message is harmless)
+Non platform assembly: data-000000000788EF80 (this message is harmless)
+0.01656661
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.033232
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.04997564
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.06654182
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.08319695
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.09976399
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1163794
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1330148
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1496101
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1663627
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1830118
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1995789
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2162665
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2329807
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2495592
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2662665
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2829725
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2995404
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.3161887
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.3328263
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.3494994
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.3660908
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.3826737
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.3997307
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.4162978
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.4328644
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.4494314
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.4659976
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.4829666
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.4995336
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.5161002
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.5326669
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.5494494
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.5660165
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.5825831
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.5991498
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.6157164
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.632283
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.6488497
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.6654492
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.6821172
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.6986846
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.71538
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.731947
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.7485589
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.7653334
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.781929
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.79857
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.8152414
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.831808
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.8484486
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.8650858
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.8818589
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.8984341
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.9151328
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.9317174
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.9483597
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.9650512
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.9816995
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.9982853
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+1.014948
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.01656618
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.03313278
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.04985975
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.0665414
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.08315632
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.09972464
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1165842
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1331508
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1497174
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.166429
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1829956
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1997255
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2163747
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2329417
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2495601
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2663456
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2829126
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.29964
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.316234
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.332801
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.3495075
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.366166
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.3831478
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.3998205
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.4164786
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.4331137
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.449856
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.4664522
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.4831603
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.500161
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.5167276
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.5332943
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.5498609
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.566555
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.5831224
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.5996886
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.6162561
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.6328257
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.6494902
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.6662014
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.6828347
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.699415
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.7160962
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.7327629
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.7494047
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.7669891
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.7835711
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.8001227
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.8166936
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.8332568
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.8498229
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.8663896
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.8829557
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.8995228
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.9160894
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.9326556
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.949223
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.9657888
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.9823563
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.9989224
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+1.015489
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolDrain:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.01659825
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.03333121
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.05013986
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.06670646
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.0832735
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.09989228
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1167912
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1333578
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1499244
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.166491
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1830572
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1996242
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2161904
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2327578
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.249324
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2658906
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2824572
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2990918
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.3157389
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.3323572
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.3490991
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.3656657
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.3823773
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.3989781
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.4156418
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.4322533
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.448926
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.4656034
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.4821871
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.4988311
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.5154759
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.01665898
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.03331453
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.04988114
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.06657561
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.08316189
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.09979906
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1165619
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1331286
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1497067
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1664525
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1831256
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.1997705
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2163884
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2329849
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2497307
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2663816
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2829482
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.2995327
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.3163114
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.3329349
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.3495798
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.3661464
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.3828084
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.399499
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.4160912
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.43279
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.4493784
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.4661067
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.4827224
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.4993284
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+0.5160451
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+BaseAttack:OnClick(Int32)
+ToolLaser:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+
+mistake damage
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ToolScalpel:onMistake()
+BaseTool:isTouchOk(String)
+ToolScalpel:onTouch()
+ThePlayer:doToolEffects()
+ThePlayer:Update()
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 34)
+

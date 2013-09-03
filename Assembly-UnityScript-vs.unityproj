@@ -18,7 +18,7 @@
 	<DebugType>full</DebugType>
 	<Optimize>false</Optimize>
 	<OutputPath>Temp\bin\Debug\</OutputPath>
-	<DefineConstants>DEBUG;TRACE;UNITY_3_4_0;UNITY_3_4;UNITY_EDITOR;ENABLE_PROFILER;UNITY_STANDALONE_OSX;ENABLE_GENERICS;ENABLE_DUCK_TYPING;ENABLE_TERRAIN;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CLOTH;ENABLE_WWW</DefineConstants>
+	<DefineConstants>DEBUG;TRACE;UNITY_3_4_0;UNITY_3_4;UNITY_EDITOR;ENABLE_PROFILER;UNITY_ANDROID;ENABLE_GENERICS;ENABLE_TERRAIN;ENABLE_NETWORK;ENABLE_WWW</DefineConstants>
 	<ErrorReport>prompt</ErrorReport>
 	<WarningLevel>4</WarningLevel>
 	<NoWarn>0169</NoWarn>
@@ -56,21 +56,60 @@
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\SmoothFollow2D.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\ZoomCamera.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\tapcontrol.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Curve\CurvePointControl.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Curve\DrawCurve.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Curve\SimpleCurve.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\DrawLines\DrawLines.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\DrawLines\DrawLinesMouse.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\DrawLines\DrawLinesTouch.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Ellipse\Ellipse1.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Ellipse\Ellipse2.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Grid\DrawGrid.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Highlight\Highlight.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Highlight\MakeSpheres.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Highlight\RotateAroundY.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Orbit\CreateStars.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Orbit\Orbit.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Orbit\RotateViewpoint.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Path\Path.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Points\DrawPoints.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Scribblecube\CameraZoom.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Scribblecube\Scribblecube.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\SelectionBox\SelectionBox.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\SelectionBox\SelectionBox2.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Spline\MakeSpline.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Text\TextDemo.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Xray\DrawBox.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Xray\VectorObject.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\Xray\XrayLineData.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\_Simple2DLine\Line.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\_Simple2DLine\ReallyBasicLine.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\_Simple2DLine\UniformTexturedLine.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\_Simple3DObject\Simple3D 2.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\_Simple3DObject\Simple3D 3.js" />
+     <Compile Include="Assets\Vectrosity\Scripts\_Simple3DObject\Simple3D.js" />
+     <None Include="Assets\Vectrosity\Shaders\ParticleZwrite.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Background.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Transparent Vertex Color.shader" />
+     <None Include="Assets\Vectrosity\Shaders\Unlit .shader" />
+     <None Include="Assets\Vectrosity\Shaders\UnlitAlpha.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Detail.shader" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\Shaders\Sprite Cutout.shader" />
+     <None Include="Assets\Pro Standard Assets\Image Based\GlowEffectDownsample.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap Reflective.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Particles Additive Culled.shader" />
      <None Include="Assets\Font\Hoefler text.txt" />
+     <None Include="Assets\Font\happyMonkeyFonts.txt" />
      <None Include="Assets\Shaders\Text Shader - Z tested.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Vertex Colored.shader" />
      <None Include="Assets\Shaders\Transparent Vertex Colored.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap Only.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap AlphaTest.shader" />
+     <None Include="Assets\Vectrosity\Shaders\DepthMask.shader" />
      <None Include="Assets\Font\Old English.txt" />
+     <None Include="Assets\Vectrosity\Shaders\SolidColor.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>

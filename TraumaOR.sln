@@ -11,6 +11,8 @@ Project("{C8534EA8-1A6C-1D42-D5F5-825D71365BE0}") = "TraumaOR", "Assembly-UnityS
 EndProject
 Project("{C8534EA8-1A6C-1D42-D5F5-825D71365BE0}") = "TraumaOR", "Assembly-UnityScript.unityproj", "{B2D01042-7C1B-AB78-C771-AB5534B45C0B}"
 EndProject
+Project("{C8534EA8-1A6C-1D42-D5F5-825D71365BE0}") = "TraumaOR", "Assembly-UnityScript-Editor.unityproj", "{395D5A6E-6E4F-D82A-6026-D30A94D1810E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{B2D01042-7C1B-AB78-C771-AB5534B45C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2D01042-7C1B-AB78-C771-AB5534B45C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2D01042-7C1B-AB78-C771-AB5534B45C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{395D5A6E-6E4F-D82A-6026-D30A94D1810E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395D5A6E-6E4F-D82A-6026-D30A94D1810E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395D5A6E-6E4F-D82A-6026-D30A94D1810E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395D5A6E-6E4F-D82A-6026-D30A94D1810E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

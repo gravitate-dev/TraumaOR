@@ -1663,7 +1663,7 @@ public abstract class SpriteRoot : MonoBehaviour, IEZLinkedListItem<SpriteRoot>
 		pixelsPerUV.x = tex.width;
 		pixelsPerUV.y = tex.height;
 		} else {
-			Debug.LogError("Texture null reference but its okay, u didn't use managed!");
+//			Debug.LogError("Texture null reference but its okay, u didn't use managed!");
 		}
 	}
 
