@@ -216,7 +216,7 @@ pip-log.txt
 
 #ignore unity builds
 traumaOR.exe
-
+Library/
 *.csproj
 *.unityproj
 *.sln
