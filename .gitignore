@@ -219,3 +219,7 @@ traumaOR.exe
 Library/metadata
 Library/cache
 Library/previews
+*.csproj
+*.unityproj
+*.sln
+*.DS_store
